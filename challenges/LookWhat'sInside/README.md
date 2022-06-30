@@ -1,3 +1,5 @@
+`Easy`
+
 # LookWhat'sInside
 
 Can you find what's inside the given file??

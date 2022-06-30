@@ -1,4 +1,4 @@
-`Easy`
+`Medium`
 
 # SimpleFind
 

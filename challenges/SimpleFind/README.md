@@ -1,3 +1,5 @@
+`Easy`
+
 # SimpleFind
 
 you just have to find the flag from the file attached, heard grep is a great tool

@@ -1,3 +1,5 @@
+`Hard`
+
 # DigDeeper
 
 Go explore greater depths to find the flag.

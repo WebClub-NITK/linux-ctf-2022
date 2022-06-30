@@ -1,4 +1,4 @@
-`Haed`
+`Hard`
 
 # CatchTheImpostor
 

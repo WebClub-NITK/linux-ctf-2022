@@ -1,3 +1,5 @@
+`Easy`
+
 # GitThePartyStarted
 
 Clone the repo https://github.com/apsdehal/awesome-ctf.git

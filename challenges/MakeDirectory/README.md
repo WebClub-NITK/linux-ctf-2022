@@ -1,3 +1,5 @@
+`Easy`
+
 # MakeDirectory
 
 Wannabe a pro hacker? First create a directory

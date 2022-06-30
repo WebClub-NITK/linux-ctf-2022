@@ -1,3 +1,5 @@
+`Hard`
+
 # HarderFind
 
 hmm, the flag is in the challege.txt,

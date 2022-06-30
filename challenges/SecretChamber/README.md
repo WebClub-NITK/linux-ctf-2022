@@ -1,3 +1,5 @@
+`Easy`
+
 # SecretChamber
 
 Find a way to get into my secret chamber

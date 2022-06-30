@@ -1,3 +1,5 @@
+`Medium`
+
 # BreakTheCode
 
 Crack the "base" of "Gadolinium"

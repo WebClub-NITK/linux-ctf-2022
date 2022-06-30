@@ -1,3 +1,5 @@
+`Medium`
+
 # CutTheTail
 
 Flag is 500th to 525th characters(inclusive of both) of the last line of flag.txt

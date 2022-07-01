@@ -11,6 +11,6 @@ Note: Even if you are not able to solve a challenge please include whatever you 
 • A doc must be prepared containing the writeups for each CTF challenge.\
 • Note: Your Answer to CTF Challenge will not be accepted without the corresponding write up.\
 • The doc must also be uploaded in the forms.\
-• Challenges will be present in the github repo: https://github.com/WebClub-NITK/linux-ctf-2022\
-• Sample doc: https://docs.google.com/document/d/1h8UayuOCqQtpGEE5ctn3jrfptCseOruoax9JcE3uIRk/edit?usp=sharing\
+• Challenges will be present in the github repo: https://github.com/WebClub-NITK/linux-ctf-2022.\
+• Sample doc: https://docs.google.com/document/d/1h8UayuOCqQtpGEE5ctn3jrfptCseOruoax9JcE3uIRk/edit?usp=sharing.\
 • The submission forms is https://forms.gle/yaDwiRHaU41gqQpGA. 
